@@ -1,4 +1,6 @@
 # plhamJ-sample
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/b364922609c842b689fcc367ec57cdc3)](https://www.codacy.com/gh/masanorihirano/plhamJ-sample/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=masanorihirano/plhamJ-sample&amp;utm_campaign=Badge_Grade)
+
 project sample for PlahmJ ( https://github.com/plham/plhamJ )
 
 ## Usage
