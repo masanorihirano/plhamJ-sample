@@ -2,6 +2,8 @@
 *.dat
 *.png
 out
+build
+dist
 
 # Compiled class file
 *.class
