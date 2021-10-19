@@ -3,18 +3,18 @@
 ## Before running
 Please use java environment.
 
-#### Linux or Windows WSL(WSL2):
-```
+#### Linux or Windows WSL(WSL2)
+```bash
 $ sudo apt install default-jdk
 ```
 
-#### MacOS:
-```
+#### MacOS
+```bash
 $ brew install java
 ```
 Then, set up environment path according to the output from the command above.
 
-#### Windows:
+#### Windows
 TBD
 
 ## Run Program
