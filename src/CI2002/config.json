@@ -29,12 +29,12 @@
     "class": "FCNAgent",
     "numAgents": 100,
 
-    "MEMO": "Agent class",
+    "MEMO01": "Agent class",
     "markets": ["Market"],
     "assetVolume": 50,
     "cashAmount": 10000,
 
-    "MEMO": "FCNAgent class",
+    "MEMO02": "FCNAgent class",
     "fundamentalWeight": {"expon": [1.0]},
     "chartWeight": {"expon": [0.0]},
     "noiseWeight": {"expon": [1.0]},
