@@ -41,6 +41,13 @@
                 <attribute name="Class-Path" value="lib/plhamj-v1.0.0-jar-with-dependencies.jar"/>
             </manifest>
         </jar>
+        <jar jarfile="${dist}/CancelTest.jar" basedir="${build}">
+            <zipgroupfileset dir="lib" includes="*.jar"/>
+            <manifest>
+                <attribute name="Main-Class" value="CancelTest.CancelTestMain"/>
+                <attribute name="Class-Path" value="lib/plhamj-v1.0.0-jar-with-dependencies.jar"/>
+            </manifest>
+        </jar>
     </target>
 
     <target name="clean" description="clean up">

@@ -24,4 +24,5 @@ java -jar ./dist/CI2002.jar src/CI2002/config.json
 ```
 
 ## Note
-If you want to add your source code originally, please edit `build.xml`
+If you want to add your source code originally, please edit `build.xml`.
+`build.xml` is only necessary for ant.
