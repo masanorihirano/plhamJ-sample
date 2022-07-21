@@ -14,6 +14,7 @@ brew install ant
 ```
 
 ## How to use
+At first, you should modify `build.xml`, especially "plhamj_version"
 ```bash
 ant build
 ```
